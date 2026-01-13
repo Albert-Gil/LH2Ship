@@ -7,7 +7,7 @@
 This repository contains the **MATLAB/Simulink models and data** developed for a feasibility study of a **zero-emission cruise ship powered by a Hydrogen Tri-Generation System**.
 
 > [!IMPORTANT]
-> **Publication Status:** The associated journal paper and MSc thesis are currently **pending publication**. A link to the official publication and recommended citation will be added here as soon as they are available.
+> **Publication Status:** The associated journal paper is currently **pending publication**. A link to the official publication and recommended citation will be added here as soon as it is available.
 
 ---
 
